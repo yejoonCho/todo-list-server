@@ -5,3 +5,6 @@ __pycache__/
 
 # Virtual environment
 .venv
+
+# private information
+secrets.json
